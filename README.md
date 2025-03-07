@@ -15,7 +15,9 @@ This is a simple clone of the Amazon home page built using **HTML** and **CSS** 
 - **CSS3** for styling and layout
 
 ## 📸 Preview
-![Amazon Clone Screenshot](![screencapture-vachaspathi6-github-io-amazonclone-github-io-2025-03-07-18_00_51](https://github.com/user-attachments/assets/23a1ce87-8e4c-4333-bc1e-39723e624a5c))
+![Amazon Clone Screenshot]
+![screencapture-vachaspathi6-github-io-amazonclone-github-io-2025-03-07-18_00_51](https://github.com/user-attachments/assets/27c38f1f-d04e-4140-bf16-c11382c439a1)
+
 
 ## 🛠️ Installation
 To run this project locally:
